@@ -1,0 +1,34 @@
+comandos basicos
+
+Comandos de la terminal
+
+cd : Cambio de directorio
+
+
+dir : Mostrar los archivos de un directorio  ó  ls : Mismo pero sistemas mac y linux
+
+
+mkdir : Creacion de nuevo directorio
+
+
+
+
+Comandos de git
+
+git clone : Comando pra clonar un nuevo repositorio
+
+git push: Subir archvios al repositorio
+
+git pull: Bajar los archvios del repositorio a tu maquina
+
+git status: Ver el estado del repositorio
+
+
+git commit: Dar una mensaje o notificacion de subir archivos
+
+git add	: Añadir archivos que vamos a subir 
+
+
+
+
+
